@@ -1,8 +1,4 @@
-scapy
-wifi
-logging
-pandas
-geopy
-gpsd
-googlemaps
-folium
+scapy>=2.5.0
+colorama>=0.4.6
+requests>=2.31.0
+pyserial

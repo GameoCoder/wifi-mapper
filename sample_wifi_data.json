@@ -1,0 +1,143 @@
+[
+  {
+    "timestamp": "2026-04-14T20:15:00+05:30",
+    "location": {
+      "lat": 17.4435,
+      "lon": 78.3772,
+      "accuracy_m": 50,
+      "source": "ip_geolocation"
+    },
+    "networks": [
+      {
+        "ssid": "CampusWiFi",
+        "bssid": "AA:BB:CC:11:22:33",
+        "channel": 6,
+        "frequency_ghz": 2.437,
+        "signal_dbm": -45,
+        "encryption": "Open",
+        "hidden": false
+      },
+      {
+        "ssid": "LabNetwork_5G",
+        "bssid": "DD:EE:FF:44:55:66",
+        "channel": 36,
+        "frequency_ghz": 5.18,
+        "signal_dbm": -62,
+        "encryption": "WPA2",
+        "hidden": false
+      },
+      {
+        "ssid": "AdminSecure",
+        "bssid": "11:22:33:AA:BB:CC",
+        "channel": 1,
+        "frequency_ghz": 2.412,
+        "signal_dbm": -78,
+        "encryption": "WPA2/WPA3",
+        "hidden": false
+      },
+      {
+        "ssid": "",
+        "bssid": "99:88:77:66:55:44",
+        "channel": 11,
+        "frequency_ghz": 2.462,
+        "signal_dbm": -71,
+        "encryption": "WPA2",
+        "hidden": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T20:45:00+05:30",
+    "location": {
+      "lat": 17.4452,
+      "lon": 78.3491,
+      "accuracy_m": 10,
+      "source": "manual"
+    },
+    "networks": [
+      {
+        "ssid": "HomeRouter",
+        "bssid": "A1:B2:C3:D4:E5:F6",
+        "channel": 44,
+        "frequency_ghz": 5.22,
+        "signal_dbm": -38,
+        "encryption": "WPA2",
+        "hidden": false
+      },
+      {
+        "ssid": "Neighbor_Net",
+        "bssid": "F6:E5:D4:C3:B2:A1",
+        "channel": 3,
+        "frequency_ghz": 2.422,
+        "signal_dbm": -82,
+        "encryption": "WPA",
+        "hidden": false
+      },
+      {
+        "ssid": "FreeHotspot",
+        "bssid": "AB:CD:EF:12:34:56",
+        "channel": 6,
+        "frequency_ghz": 2.437,
+        "signal_dbm": -55,
+        "encryption": "Open",
+        "hidden": false
+      },
+      {
+        "ssid": "IoT_Devices",
+        "bssid": "12:34:56:78:9A:BC",
+        "channel": 149,
+        "frequency_ghz": 5.745,
+        "signal_dbm": -69,
+        "encryption": "WPA2",
+        "hidden": false
+      },
+      {
+        "ssid": "OldRouter",
+        "bssid": "DE:AD:BE:EF:00:01",
+        "channel": 9,
+        "frequency_ghz": 2.452,
+        "signal_dbm": -88,
+        "encryption": "WEP",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T21:10:00+05:30",
+    "location": {
+      "lat": 17.4468,
+      "lon": 78.3635,
+      "accuracy_m": 30,
+      "source": "ip_geolocation"
+    },
+    "networks": [
+      {
+        "ssid": "CafeConnect",
+        "bssid": "CA:FE:00:11:22:33",
+        "channel": 1,
+        "frequency_ghz": 2.412,
+        "signal_dbm": -52,
+        "encryption": "Open",
+        "hidden": false
+      },
+      {
+        "ssid": "CafeConnect_Staff",
+        "bssid": "CA:FE:00:44:55:66",
+        "channel": 48,
+        "frequency_ghz": 5.24,
+        "signal_dbm": -58,
+        "encryption": "WPA3",
+        "hidden": false
+      },
+      {
+        "ssid": "NearbyOffice",
+        "bssid": "0F:F1:CE:77:88:99",
+        "channel": 11,
+        "frequency_ghz": 2.462,
+        "signal_dbm": -75,
+        "encryption": "WPA2",
+        "hidden": false
+      }
+    ]
+  }
+]

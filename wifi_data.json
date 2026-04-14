@@ -1,0 +1,76 @@
+[
+  {
+    "timestamp": "2026-04-14T22:58:44.734066+05:30",
+    "location": {
+      "lat": 17.385,
+      "lon": 78.486,
+      "accuracy_m": 50,
+      "source": "ip_geolocation"
+    },
+    "networks": [
+      {
+        "ssid": "TP-Link_2.4G_17A4D2",
+        "bssid": "AC:84:C6:17:A4:D2",
+        "channel": 6,
+        "frequency_ghz": 2.437,
+        "signal_dbm": -51,
+        "encryption": "Open",
+        "hidden": false
+      },
+      {
+        "ssid": "TP-Link_2.4G_17A8D4",
+        "bssid": "AC:84:C6:17:A8:D4",
+        "channel": 11,
+        "frequency_ghz": 2.462,
+        "signal_dbm": -71,
+        "encryption": "Open",
+        "hidden": false
+      },
+      {
+        "ssid": "0016c001ff1e3007",
+        "bssid": "08:97:58:2D:7B:6A",
+        "channel": 6,
+        "frequency_ghz": 2.437,
+        "signal_dbm": -86,
+        "encryption": "WPA2",
+        "hidden": false
+      },
+      {
+        "ssid": "TP-Link_2.4G_17A9D2",
+        "bssid": "AC:84:C6:17:A9:D2",
+        "channel": 6,
+        "frequency_ghz": 2.437,
+        "signal_dbm": -89,
+        "encryption": "Open",
+        "hidden": false
+      },
+      {
+        "ssid": "TP-Link_2.4G_17A4C0",
+        "bssid": "AC:84:C6:17:A4:C0",
+        "channel": 1,
+        "frequency_ghz": 2.412,
+        "signal_dbm": -93,
+        "encryption": "Open",
+        "hidden": false
+      },
+      {
+        "ssid": "TP-Link_2.4G_17A94A",
+        "bssid": "AC:84:C6:17:A9:4A",
+        "channel": 11,
+        "frequency_ghz": 2.462,
+        "signal_dbm": -80,
+        "encryption": "Open",
+        "hidden": false
+      },
+      {
+        "ssid": "KLEF-BHM",
+        "bssid": "1C:61:B4:D0:E2:CC",
+        "channel": 6,
+        "frequency_ghz": 2.437,
+        "signal_dbm": -92,
+        "encryption": "Open",
+        "hidden": false
+      }
+    ]
+  }
+]
